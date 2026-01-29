@@ -69,6 +69,12 @@ Eine visuelle Reise durch den Wahnsinn. Hier finden Sie alle Memes und Impressio
 
 [![Galerie](https://img.shields.io/badge/Galerie-Memes_%26_Illustrationen-purple?style=for-the-badge&logo=github)](assets/illustrations/README.md)
 
+<br>
+
+<div align="center">
+  <img src="assets/illustrations/Die Villa Kunterbunt_024.PNG" width="50%" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
+</div>
+
 ## 📥 Download
 
 Laden Sie hier die vollständige Korrespondenz herunter und erleben Sie, wie man mit Humor gegen Windmühlen kämpft.
