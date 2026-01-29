@@ -22,7 +22,7 @@
 
 ## 📖 Über dieses Ebook
 
-> *"Für alle, die schon einmal vergeblich auf die dritte Phase gewartet haben."*
+> *"Die „Villa Kunterbunt“ lehrt uns, dass man auch in der Dunkelheit eines Phasenausfalls das Licht des Humors nicht verlieren muss. Sie ist ein Plädoyer für die Rückkehr der Menschlichkeit und Fachkompetenz in eine zunehmend automatisierte Welt."*
 
 Dieses Dokument ist mehr als nur ein Beschwerdebrief. Es ist das Protokoll einer **administrativen Tragikomödie**. Was als simpler technischer Defekt – ein fehlender Anschluss der Phase L3 nach einer Zähleraktivierung – begann, entwickelte sich schnell zu einer philosophischen Reise in das Herz der deutschen Bürokratie.
 
