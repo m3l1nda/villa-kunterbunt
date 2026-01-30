@@ -48,7 +48,7 @@ Es dokumentiert den verzweifelten Kampf eines Kunden, der mit Logik, Messgeräte
 
 ### 🏢 Hinweis für die teilnehmenden Unternehmen
 
-Es besteht die Möglichkeit, dass Dokumente, die eine **Verbesserung von Prozessen** oder ähnlichem protokollieren, über den normalen Prozess zur Aufnahme in das Repository angefragt werden können. Diese werden nach erfolgreicher Prüfung prominent in der README platziert.
+Es besteht die Möglichkeit, dass Dokumente, die eine **Verbesserung von Prozessen** oder ähnlichem protokollieren, über den normalen Prozess zur Aufnahme in das Repository angefragt werden können. Diese werden nach erfolgreicher Prüfung prominent hier in der README.md platziert.
 
 > [!WARNING]
 > Stellungnahmen, Erklärungsversuche und andere bloße Symbole sind ausdrücklich davon ausgenommen und werden abgelehnt.
