@@ -1,3 +1,5 @@
+---
+
 <div align="center">
 
 # 🎪 Die Villa Kunterbunt
@@ -46,9 +48,9 @@ Es dokumentiert den verzweifelten Kampf eines Kunden, der mit Logik, Messgeräte
 
 ---
 
-### 🏢 Hinweis für die teilnehmenden Unternehmen
+## 🏢 Hinweis für die teilnehmenden Unternehmen
 
-Es besteht die Möglichkeit, dass Dokumente, die eine **Verbesserung von Prozessen** oder ähnlichem protokollieren, über den normalen Prozess zur Aufnahme in das Repository angefragt werden können. Diese werden nach erfolgreicher Prüfung prominent in der README platziert.
+Es besteht die Möglichkeit, dass Dokumente, die eine **Verbesserung von Prozessen** oder ähnlichem protokollieren, über den normalen Prozess zur Aufnahme in das Repository angefragt werden können. Diese werden nach erfolgreicher Prüfung prominent hier in der README.md platziert.
 
 > [!WARNING]
 > Stellungnahmen, Erklärungsversuche und andere bloße Symbole sind ausdrücklich davon ausgenommen und werden abgelehnt.
@@ -68,6 +70,8 @@ In dem physikalische Messungen vor Ort durch telepathische Ferndiagnosen von "Ma
 ### Das Finale: Die Initiativbewerbung
 Die logische Konsequenz: Wenn man das System nicht besiegen kann, muss man Teil davon werden. Eine förmliche Bewerbung für eine Karriere in der "Villa Kunterbunt", einem Ort, geschützt durch Monopole und Quetschsiegel, wo Effizienz ein "Nice-to-have" ist.
 
+---
+
 ## ⚡ Technische Details (Der "Beweis")
 
 Für die technisch Interessierten (und die Zweifler im Callcenter):
@@ -75,6 +79,8 @@ Für die technisch Interessierten (und die Zweifler im Callcenter):
 *   **Diagnose:** FI-Testtasten ohne Funktion.
 *   **Ausschlussverfahren:** Zähler zeigt L1, L2, L3 eingangsseitig an.
 *   **Fazit:** Der Fehler liegt *zwingend* an der Abgangsklemme. Ein klassischer "Kabel-nicht-drin"-Fehler.
+
+---
 
 ## 🤡 Memes & Illustrationen
 
@@ -89,6 +95,8 @@ Eine visuelle Reise durch den Wahnsinn. Hier finden Sie alle Memes und Illustrat
 <br>
 
 [![Galerie](https://img.shields.io/badge/Galerie-Memes_%26_Illustrationen-purple?style=for-the-badge&logo=github)](assets/illustrations/README.md)
+
+---
 
 ## 📥 Download
 
