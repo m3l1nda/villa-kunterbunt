@@ -2,7 +2,7 @@ name: Scheduled Repo Sync
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Täglich um Mitternacht
+    - cron: '0 0 * * *' 
   workflow_dispatch: 
 
 jobs:
@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     name: Sync main with upstream
     
-    # HIER DIE LÖSUNG: Wir fordern explizit Schreibrechte für diesen Job an
     permissions:
       contents: write
 
@@ -25,7 +24,7 @@ jobs:
       uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
       with:
         target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-        upstream_repository: derlemue/villa-kunterbunt
-        upstream_branch: main
-        target_branch: main
+        upstream_sync_repo: derlemue/villa-kunterbunt
+        upstream_sync_branch: main
+        target_sync_branch: main
         test_mode: false
