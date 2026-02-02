@@ -2,8 +2,7 @@ name: Sync Fork
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Alle 15 Minuten
-
+    - cron: '00 * * * *'
 
 permissions:
   contents: write
