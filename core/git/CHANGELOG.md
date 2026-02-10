@@ -32,10 +32,6 @@
 ### "The Forensic Symphony"
 *10. Februar 2026*
 
-<p align="center">
-  <img src="./images/villa_kunterbunt_print_thumb.png" width="60%" alt="Forensic Symphony" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);">
-</p>
-
 > **Status:** Integration des Meta-Podcast-Folge E03 und finale Design-Anpassung der Investigativ-Reports abgeschlossen.
 
 #### 🎙️ Podcast & Audio
