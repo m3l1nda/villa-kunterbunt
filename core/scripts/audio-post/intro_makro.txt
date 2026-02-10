@@ -1,0 +1,4 @@
+FilterCurve:f0="20" f1="35" f2="45" f3="2000" f4="3500" f5="5000" f6="13000" f7="13500" f8="20000" FilterLength="8191" InterpolateLin="0" InterpolationMethod="B-spline" v0="-30" v1="-30" v2="0" v3="0" v4="-4" v5="0" v6="0" v7="-30" v8="-30"
+Compressor:Attack="1" Release="200" Ratio="6" Threshold="-26" UsePeak="0"
+Limiter:gain-L="0" gain-R="0" hold="2" makeup="1" thresh="-0.1" type="HardLimit"
+LoudnessNormalization:DualMono="1" LUFSLevel="-14" NormalizationType="0" RMSLevel="-14" StereoIndependent="0"
