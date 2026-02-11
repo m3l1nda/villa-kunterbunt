@@ -60,6 +60,8 @@
     *   **Premium Template Sync:** Übernahme des Dark-Mode Glassmorphism Designs für alle Sprachversionen.
     *   **Englische Version (index_en):** Präzise 1:1 Übersetzung inkl. Mermaid-Diagramm-Beschreibungen und Footern.
     *   **Einfache Sprache (index_de2):** Barrierefreie Übersetzung in "Leichte Sprache" zur Optimierung der Zugänglichkeit für alle Projektbeteiligten bei vollem Design-Erhalt.
+    *   **Cross-Linking Update:** Umstellung aller "Zurück"-Buttons in den Upload-Guides auf die spezifischen README-Versionen in `core/git/translations/` für eine nahtlose Navigation.
+    *   **Absolute Asset Paths:** Fix fehlerhafter Illustrations-Pfade durch Nutzung absoluter GitHub-Pages-URLs zur Sicherstellung korrekter Rendering-Ergebnisse über alle Dokumentationstiefen hinweg.
 
 ---
 <br>
