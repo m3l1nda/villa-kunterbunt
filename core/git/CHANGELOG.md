@@ -41,7 +41,12 @@
     *   **Navigation:** Vernetzung mit E04 und Integration in den Meta-Index.
 *   **UI/UX Refinement:** 
     *   Überarbeitung der Button-Layouts und Abstände für ein konsistentes Premium-Erlebnis.
-    *   **Text-Alignment-Standardisierung:** Vereinheitlichung der Textausrichtung (Beschreibungen zentriert, TSS-Info linksbündig) über das gesamte Meta-Portal.
+    *   **Text-Alignment-Standardisierung:** Vereinheitlichung der Textausrichtung über das gesamte Portal:
+        *   Einzelepisoden: Beschreibungen zentriert, TSS-Info linksbündig.
+        *   Podcast-Indizes (Main, Meta, Cowork): Alle Kurzbeschreibungen linksbündig.
+    *   **TTS-Sync (Index):** Synchronisierung des Infotextes für Episode 05 im Hauptindex.
+    *   **Podcast Episode 06:** Release von "Die Villa Kunterbunt Studie" inklusive Audio-Metadaten-Sync und Einzelseite.
+    *   **Navigation:** Aktivierung des "Nächste Episode" Buttons in E05 und Metadaten-Fix für das iPhone-Widget.
     *   **Link-Fix (Index):** Umstellung der Fork-Links von Repositories auf GitHub-Pages-URLs für direkten Zugriff auf die Live-Demos.
 *   **Mobile Widget:** Optimierung der iPhone-Player-Anzeige durch synchronisierte Audiobook-Cover-Metadaten.
 
